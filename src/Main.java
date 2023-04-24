@@ -18,7 +18,7 @@ public class Main {
 
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Mentoria Java");
-        mentoria.setDescricao("Descricao mentoria Java");
+        mentoria.setDescricao("Descricao da mentoria Java");
         mentoria.setData(LocalDate.now());
 
         System.out.println(curso1);
